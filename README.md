@@ -18,3 +18,10 @@ Be good :)
 
 
 Follow us on twitter @hackappcom
+
+---------------------------
+2014-9-2 9:57:38
+
+iCloud 泄露事件，从目前掌握的信息来看，其实只是 find my iphone 某个API忘记设置防暴，然后成功被爆，目前漏洞已经修补.
+
+Github 上找来的 ibrute 代码，看看知道怎么回事了就好
